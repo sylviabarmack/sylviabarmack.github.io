@@ -1,0 +1,27 @@
+body {
+    background-color: #C0B9DD;
+    margin-right: 500px;
+    margin-left: 200px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-family: Verdana, Arial, sans-Serif;
+}
+ul {
+    list-style-type: circle;
+    color:#F7F4EA;
+}
+ol {
+    color:#F7F4EA;
+}
+p {
+    color:#F7F4EA;
+}
+h1 {
+  color:#AAABBC;
+}
+h2 {
+  color:#80A1D4;
+}
+h3 {
+  color:#75C9C8;
+}
